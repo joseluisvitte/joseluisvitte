@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joseluisvitte
-- 👀 I’m interested in Web Dev (Fullstack), Software Engineering, Machine Learning & Artificial Intelligence
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Software Engineering, Data Analysis, Machine Learning & Artificial Intelligence
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me Twitter: https://twitter.com/joseluisvitte | email: joseluisvitte@ya.ru
 
