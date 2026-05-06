@@ -1,5 +1,6 @@
 # ⚡ José Luis Escamilla Vite
 ### Software Developer | Data Analyst | Security Researcher (Pentester)
+![Views](https://komarev.com/ghpvc/?username=joseluisvitte&color=blueviolet&style=flat-square)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Bioinformatics-success?style=for-the-badge&logo=dna" />
